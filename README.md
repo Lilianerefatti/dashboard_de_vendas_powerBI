@@ -61,3 +61,13 @@ estratégicas da área comercial?
 Este projeto demonstra a capacidade de transformar dados brutos em
 informações acionáveis por meio de visualizações claras e orientadas ao negócio.
 Dados fictícios para analisar
+
+---
+## Imagens
+![1](https://github.com/user-attachments/assets/f38537db-ffa3-4f7c-8d55-5f349f301854)
+
+![2](https://github.com/user-attachments/assets/254a69a2-748d-4d69-8f0f-460b57de1c33)
+
+![3](https://github.com/user-attachments/assets/8faf08e0-4ade-4347-a29e-06e54cff8205)
+
+
