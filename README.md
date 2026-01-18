@@ -70,4 +70,9 @@ Dados fictícios para analisar
 
 ![3](https://github.com/user-attachments/assets/8faf08e0-4ade-4347-a29e-06e54cff8205)
 
+---
+## Decisões que este dashboard apoia
+- Identificação de produtos mais rentáveis
+- Regiões com baixo desempenho
+- Planejamento de metas comerciais
 
