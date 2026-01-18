@@ -1,22 +1,30 @@
-# Dashboard de Vendas com Power BI
+<h1 align="center"> Dashboard de Vendas com Power BI </h1>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazMxY2xxOXF4Z3htaWZ5OWo5eWl0cDhnbTNmdjVmY210bjlodXgxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kkCsb4kKRQOzPPDBGL/giphy.gif" width="300">
+</p>
+
+---
 ## Contexto de Negócio
 
 Empresas precisam acompanhar o desempenho de vendas para identificar
 oportunidades de crescimento, gargalos operacionais e padrões de consumo.
 Dashboards bem estruturados permitem decisões rápidas e baseadas em dados.
 
+---
 ## Pergunta Orientada por Dados
 
 Como visualizar e analisar o desempenho de vendas para apoiar decisões
 estratégicas da área comercial?
 
+---
 ## Dados Utilizados
 
 * Base de dados de vendas
 * Variáveis: data, produto, região, quantidade vendida, faturamento
 * Dados tratados e organizados para análise visual
 
+---
 ## Metodologia
 
 * Limpeza e transformação dos dados
@@ -24,6 +32,7 @@ estratégicas da área comercial?
 * Desenvolvimento de visualizações interativas no Power BI
 * Análise de tendências e comparação de desempenho por período e região
 
+---
 ## Principais Indicadores
 
 * Faturamento total
@@ -32,12 +41,14 @@ estratégicas da área comercial?
 * Desempenho por região
 * Evolução temporal das vendas
 
+---
 ## Resultados e Insights
 
 * Identificação de regiões com maior potencial de crescimento
 * Produtos com maior contribuição para o faturamento
 * Períodos de maior e menor desempenho comercial
 
+---
 ## Tecnologias Utilizadas
 
 * Power BI
@@ -45,6 +56,8 @@ estratégicas da área comercial?
 * Modelagem de dados
 * DAX
 
+---
 ## Observações
-
+Este projeto demonstra a capacidade de transformar dados brutos em
+informações acionáveis por meio de visualizações claras e orientadas ao negócio.
 Dados fictícios para analisar
